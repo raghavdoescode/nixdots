@@ -1,0 +1,10 @@
+#+TITLE: nixdots
+#+AUTHOR: nerdthatnoonelikes
+#+DESCRIPTION: NixOS Dotfiles
+
+* Overview
+| window manager    | bspwm            |
+| editor(s)         | neovim and emacs |
+| status bar        | polybar          |
+| terminal emulator | alacritty        |
+| shell             | zsh              |
